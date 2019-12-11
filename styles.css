@@ -1,3 +1,28 @@
+body{
+  background: white;
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+#navBrandTop {
+  font-size: 1.5rem;
+  font-weight: 75;
+  background: #ff462d;
+  color: white;
+}
+
+#mainNav{
+  background-color: white;
+  text-transform: uppercase;
+}
+
+#mainNav .nav-link {
+  color: black;
+}
+
+#mainNav .nav-link:hover {
+  color: #ff462d;
+}
+
 .featurette-divider {
     margin: 25px 0; 
   }
