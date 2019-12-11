@@ -20,7 +20,8 @@ body{
 }
 
 #mainNav .nav-link:hover {
-  color: #ff462d;
+  background: #ff462d;
+  color: white;
 }
 
 .featurette-divider {
