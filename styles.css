@@ -61,3 +61,10 @@ h2 {
 .jumbotron {
   background-image: url(img/tic-tac-toe.png);
 }
+
+#menuHeader {
+  font-size: 1.5rem;
+  font-family: 'Alata', sans-serif;
+  background: #ff462d;
+  color: white;
+}
