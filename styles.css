@@ -1,11 +1,11 @@
 body{
   background: white;
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Libre Franklin', sans-serif;
 }
 
 #navBrandTop {
   font-size: 1.5rem;
-  font-weight: 75;
+  font-family: 'Alata', sans-serif;
   background: #ff462d;
   color: white;
 }
@@ -13,6 +13,8 @@ body{
 #mainNav{
   background-color: white;
   text-transform: uppercase;
+  font-size: 1.2rem;
+  font-family: 'Alata', sans-serif;
 }
 
 #mainNav .nav-link {
@@ -30,4 +32,32 @@ body{
 
 .reservationForm {
     margin: 15px 0px 15px 0px;
+}
+
+#footerLinks {
+  color: white;
+  background: #ff462d;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-family: 'Alata', sans-serif;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-family: 'Alata', sans-serif;
+}
+
+#containerBlack {
+  background: black;
+  color: white;
+}
+
+#containerBlack.h2 {
+  color: yellow
+}
+
+.jumbotron {
+  background-image: url(img/tic-tac-toe.png);
 }
